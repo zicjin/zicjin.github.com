@@ -794,3 +794,7 @@ pre .clojure .title {
 pre .deletion {
   color: #dc322f;
 }
+.zicbox {
+  width: 1200px;
+  margin: 0 auto;
+}
