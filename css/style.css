@@ -103,7 +103,7 @@ a:hover {
 }
 #header {
   text-shadow: 0 0 1px #fff;
-  margin: 50px auto;
+  margin: 50px auto 20px;
 }
 #header a {
   color: #999;
@@ -796,5 +796,5 @@ pre .deletion {
 }
 .zicbox {
   width: 1200px;
-  margin: 0 auto;
+  margin: 0 auto 20px;
 }
